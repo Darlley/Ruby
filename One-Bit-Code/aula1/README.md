@@ -1,4 +1,8 @@
-## INSTALAR RUBY
+## MISSÕES
+
+![aula 1](https://pbs.twimg.com/media/EBIx9meXsAAnDcX?format=jpg&name=small)
+
+### INSTALAR RUBY
 
 Documentação disponível **[aqui](https://www.ruby-lang.org/pt/downloads/)** e **[aqui](https://www.ruby-lang.org/pt/documentation/installation/)**
 
@@ -11,7 +15,7 @@ Documentação disponível **[aqui](https://www.ruby-lang.org/pt/downloads/)** e
 - **WINDOWS**
 > Em máquinas com Windows, você pode usar o [RubyInstaller](https://rubyinstaller.org/) ou o pik.
 
-## LEITURA
+### LEITURA
 
 > **Ruby é uma linguagem de programação** interpretada multiparadigma, de tipagem dinâmica e forte, com gerenciamento de memória automático, originalmente planejada e desenvolvida no Japão em 1995, por Yukihiro "Matz" Matsumoto, para ser usada como linguagem de script. Matz queria *uma linguagem de script que fosse mais poderosa do que Perl, e mais orientada a objetos do que Python*. Ruby suporta programação funcional, orientada a objetos, imperativa e reflexiva. Foi inspirada principalmente por Python, Perl, Smalltalk, Eiffel, Ada e Lisp, sendo muito similar em vários aspectos a Python. Ruby está entre as 10 linguagens mais populares, de acordo com uma pesquisa conduzida pela RedMonk.
 >
