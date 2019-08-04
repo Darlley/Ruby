@@ -1,6 +1,6 @@
 ## INSTALAR RUBY
 
-Documentação disponíve **[aqui](https://www.ruby-lang.org/pt/downloads/)** e **[aqui](https://www.ruby-lang.org/pt/documentation/installation/)**
+Documentação disponível **[aqui](https://www.ruby-lang.org/pt/downloads/)** e **[aqui](https://www.ruby-lang.org/pt/documentation/installation/)**
 
 - **LINUX**
 > No Linux/UNIX, você pode usar o sistema de gerenciamento de pacotes da sua distribuição ou ferramentas de terceiros ([rbenv](https://github.com/rbenv/rbenv) e [RVM](http://rvm.io/)).
