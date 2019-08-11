@@ -1,24 +1,20 @@
-print "informe o primeiro elemento: "
-elemento1 = gets.chomp
-print "informe o primeiro valor: "
-valor1 = gets.chomp
+objeto = {}
 
-print "informe o segundo elemento: "
-elemento1 = gets.chomp
-print "informe o segundo valor: "
-valor1 = gets.chomp
+print "informe o nome da primeira chave: "
+chave1 = gets.chomp
+print "informe um valor para a chave #{chave1}: "
+objeto[:chave1] = gets.chomp
 
-print "informe o terceiro elemento: "
-elemento1 = gets.chomp
-print "informe o terceiro valor: "
-valor1 = gets.chomp
+print "informe o nome da segunda chave: "
+chave2 = gets.chomp
+print "informe um valor para a chave #{chave2}: "
+objeto[:chave2] = gets.chomp
 
-objeto = {
-  #{elemento1}: #{valor1},
-  #{elemento2}: #{valor2},
-  #{elemento3}: #{valor3}
-}
+print "informe o nome da segunda chave: "
+chave3 = gets.chomp
+print "informe um valor para a chave #{chave3}: "
+objeto[:chave3] = gets.chomp
 
-puts "Uma das chaves é #{objeto{1}} e o seu valor é #{valor1}"
-puts "Uma das chaves é #{objeto{1}} e o seu valor é #{valor2}"
-puts "Uma das chaves é #{objeto{1}} e o seu valor é #{valor3}"
+puts "Uma das chave é #{chave1} e seu chalor é #{objeto[:chave1]}"
+puts "Uma das chave é #{chave2} e seu chalor é #{objeto[:chave2]}"
+puts "Uma das chave é #{chave3} e seu chalor é #{objeto[:chave3]}"
